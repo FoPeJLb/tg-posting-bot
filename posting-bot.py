@@ -1,5 +1,3 @@
-#572568227:AAHT9rdegsuGtBKcjoBl0uP1rW_twX41RfU
-
 from telegram import ParseMode
 from telegram.error import TelegramError
 from telegram.ext import Updater, MessageHandler, CommandHandler, Filters
