@@ -5,7 +5,7 @@ from telegram.error import TelegramError
 from telegram.ext import Updater, MessageHandler, CommandHandler, Filters
 
 # Замените 'YOUR_BOT_TOKEN' на токен вашего бота, полученный у BotFather
-TOKEN = '572568227:AAHT9rdegsuGtBKcjoBl0uP1rW_twX41RfU'
+TOKEN = 'YOUR_BOT_TOKEN'
 
 # Словарь для хранения каналов, на которые нужно отправлять сообщения
 channels = {}
